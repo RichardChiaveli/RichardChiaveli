@@ -11,4 +11,4 @@
 
 - 📫 Você pode chegar até mim através do e-mail **richard.chiaveli@outlook.com**
 
-- 📄 Dê uma olhada nas minhas experiências através do site [https://www.linkedin.com/in/richard-chiaveli/](https://www.linkedin.com/in/richard-chiaveli/)
+- 📄 Dê uma olhada nas minhas experiências através do site ***https://www.linkedin.com/in/richard-chiaveli/***
