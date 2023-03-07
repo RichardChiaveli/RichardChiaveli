@@ -3,15 +3,11 @@
 
 - 🤝 Estou procurando ajuda com **https://github.com/RichardChiaveli/Trilha.DotNet**
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em **https://github.com/RichardChiaveli**
-
 - 📝 Escrevo regularmente artigos no site **https://trilhadotnet.com.br/**
 
 - 💬 Pergunte-me sobre **C# e Dotnet Core**
 
 - 📫 Você pode chegar até mim através do e-mail **richard.chiaveli@outlook.com**
-
-- 📄 Dê uma olhada nas minhas experiências através do site ***https://www.linkedin.com/in/richard-chiaveli/***
 
 <h3 align="center">
   Me adicione no 
