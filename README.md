@@ -14,7 +14,7 @@
 - 📄 Dê uma olhada nas minhas experiências através do site [https://www.linkedin.com/in/richard-chiaveli/](https://www.linkedin.com/in/richard-chiaveli/)
 
 <h3 align="left">
-  Me adicione no <a href="www.linkedin.com/in/richard-chiaveli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="richardchiaveli" height="30" width="40" /></a>
+  Me adicione no <a href="https://www.linkedin.com/in/richard-chiaveli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="richardchiaveli" height="30" width="40" /></a>
 </h3>
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
