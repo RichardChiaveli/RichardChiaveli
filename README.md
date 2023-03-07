@@ -3,9 +3,9 @@
 
 - 🤝 Estou procurando ajuda com **https://github.com/RichardChiaveli/Trilha.DotNet**
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/RichardChiaveli](https://github.com/RichardChiaveli)
+- 👨‍💻 Todos os meus projetos estão disponíveis em **https://github.com/RichardChiaveli**
 
-- 📝 Escrevo regularmente artigos no site [https://trilhadotnet.com.br/](https://trilhadotnet.com.br/)
+- 📝 Escrevo regularmente artigos no site **https://trilhadotnet.com.br/**
 
 - 💬 Pergunte-me sobre **C# e Dotnet Core**
 
