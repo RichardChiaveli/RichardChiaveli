@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, Eu sou o Richard Cleyton Chiaveli!</h1>
-<p>Formado em Análise e Desenvolvimento de Sistemas e Sistemas de Informação pela ITE (Instituição Toledo de Ensino) com MBA em Gerenciamento de Projetos pela FGV (Fundação Getúlio Vargas).</p> <p>Atualmente, exerço a função de Desenvolvedor Especialista Master com foco na tecnologia .NET.</p>
+<p>Formado em <b>Análise e Desenvolvimento de Sistemas</b> e <b>Sistemas de Informação</b> pela <b>ITE</b> (Instituição Toledo de Ensino) com <b>MBA</b> em <b>Gerenciamento de Projetos</b> pela <b>FGV</b> (Fundação Getúlio Vargas).</p> <p>Atualmente, exerço a função de <b>Desenvolvedor Especialista Master com foco na tecnologia .NET</b>.</p>
 
 - 🤝 Estou procurando ajuda com **https://github.com/RichardChiaveli/Trilha.DotNet**
 
@@ -9,9 +9,9 @@
 
 - 💬 Pergunte-me sobre **C# e Dotnet Core**
 
-- 📫 Como chegar até mim **richard.chiaveli@outlook.com**
+- 📫 Você pode chegar até mim através do e-mail **richard.chiaveli@outlook.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/richard-chiaveli/](https://www.linkedin.com/in/richard-chiaveli/)
+- 📄 DÊ uma olhada nas minhas experiências atraveés do site [https://www.linkedin.com/in/richard-chiaveli/](https://www.linkedin.com/in/richard-chiaveli/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
