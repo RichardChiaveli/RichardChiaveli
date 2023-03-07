@@ -1,25 +1,14 @@
 <h1 align="center">Oi 👋, Eu sou o Richard Cleyton Chiaveli!</h1>
+<p>Formado em <b>Análise e Desenvolvimento de Sistemas</b> e <b>Sistemas de Informação</b> pela <b>ITE</b> (Instituição Toledo de Ensino) com <b>MBA</b> em <b>Gerenciamento de Projetos</b> pela <b>FGV</b> (Fundação Getúlio Vargas).</p> <p>Atualmente, exerço a função de <b>Desenvolvedor Especialista Master com foco na tecnologia .NET</b>.</p>
 
-<p>
-	Formado em <b>Análise e Desenvolvimento de Sistemas</b> e <b>Sistemas de Informação</b> pela <b>ITE</b> 
-	(Instituição Toledo de Ensino) com <b>MBA</b> em <b>Gerenciamento de Projetos</b> pela <b>FGV</b> 
-	(Fundação Getúlio Vargas).
-</p>
+- 🤝 Estou procurando ajuda com **https://github.com/RichardChiaveli/Trilha.DotNet**
 
-<p>
-	Atualmente, exerço a função de <b>Desenvolvedor Especialista Master com foco na tecnologia .NET</b>. 
-</p> 
-	- 🤝 Estou procurando ajuda com **https://github.com/RichardChiaveli/Trilha.DotNet** 
-	- 👨‍💻 Todos os meus projetos estão disponíveis em **https://github.com/RichardChiaveli** 
-	- 📝 Escrevo regularmente artigos no site **https://trilhadotnet.com.br/** 
-	- 💬 Pergunte-me sobre **C# e Dotnet Core** 
-	- 📫 Você pode chegar até mim através do e-mail **richard.chiaveli@outlook.com** 
-	- 📄 Dê uma olhada nas minhas experiências através do site **https://www.linkedin.com/in/richard-chiaveli/**
-	
-<h3 align="center">
-    <p> Me adicione no 
-		<a href="https://www.linkedin.com/in/richard-chiaveli" target="blank">    
-			<img align="center" style="padding-bottom: 10px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="richardchiaveli" height="20" width="20" />
-		</a>
-	</p>
-</h3>
+- 👨‍💻 Todos os meus projetos estão disponíveis em **https://github.com/RichardChiaveli**
+
+- 📝 Escrevo regularmente artigos no site **https://trilhadotnet.com.br/**
+
+- 💬 Pergunte-me sobre **C# e Dotnet Core**
+
+- 📫 Você pode chegar até mim através do e-mail **richard.chiaveli@outlook.com**
+
+- 📄 Dê uma olhada nas minhas experiências através do site [https://www.linkedin.com/in/richard-chiaveli/](https://www.linkedin.com/in/richard-chiaveli/)
