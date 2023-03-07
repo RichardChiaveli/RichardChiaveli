@@ -12,3 +12,8 @@
 - 📫 Você pode chegar até mim através do e-mail **richard.chiaveli@outlook.com**
 
 - 📄 Dê uma olhada nas minhas experiências através do site ***https://www.linkedin.com/in/richard-chiaveli/***
+
+<h3 align="left"><p>
+  Me adicione no <a href="https://www.linkedin.com/in/richard-chiaveli" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="richardchiaveli" height="20" width="20" /></a></p>
+</h3>
