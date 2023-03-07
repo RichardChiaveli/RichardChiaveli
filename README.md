@@ -13,7 +13,9 @@
 
 - 📄 Dê uma olhada nas minhas experiências através do site ***https://www.linkedin.com/in/richard-chiaveli/***
 
-<h3 align="left"><p>
-  Me adicione no <a href="https://www.linkedin.com/in/richard-chiaveli" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="richardchiaveli" height="20" width="20" /></a></p>
+<h3 align="center">
+  Me adicione no 
+  <a href="https://www.linkedin.com/in/richard-chiaveli" target="blank">
+	<img align="center" style="margin-bottom: 6px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="richardchiaveli" height="30" width="40" />
+  </a>
 </h3>
